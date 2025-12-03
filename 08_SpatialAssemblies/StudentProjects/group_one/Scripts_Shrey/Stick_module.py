@@ -860,3 +860,5 @@ class ExtendedCubeModule:
     def visualize(self):
         """Returns all stick geometries."""
         return [stick.geometry for stick in self.sticks]
+    
+    #bla blu bli

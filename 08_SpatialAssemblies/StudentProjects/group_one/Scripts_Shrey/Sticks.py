@@ -937,3 +937,5 @@ def bridge_sticks_zyx_decomposed(stick_0, stick_1, bridge_length, width=None, de
     }
     
     return bridges, info
+
+#xkdfdk
